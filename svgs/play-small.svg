@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="29px" viewBox="0 0 28 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>play-small</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-426.000000, -4092.000000)">
+            <g id="Case-Studies" transform="translate(209.000000, 3315.000000)">
+                <g id="Video-1" transform="translate(69.000000, 515.000000)">
+                    <g id="play-small" transform="translate(148.000000, 262.000000)">
+                        <g id="play-right-arrow-control-circular-button-copy-9">
+                            <path d="M13.86,0.689152778 C6.21757746,0.689152778 0,7.03934722 0,14.8447778 C0,22.6498056 6.21757746,29 13.86,29 C21.5020282,29 27.7196056,22.6498056 27.7196056,14.8447778 C27.7196056,7.03934722 21.5020282,0.689152778 13.86,0.689152778 Z" id="play-right-arrow-control-circular-button" fill="#40B3DF"></path>
+                            <path d="M13.86,26.4258472 C7.60692958,26.4258472 2.52039437,21.2308194 2.52039437,14.8447778 C2.52039437,8.45994444 7.60692958,3.26330556 13.86,3.26330556 C20.1126761,3.26330556 25.1992113,8.45994444 25.1992113,14.8447778 C25.1992113,21.2308194 20.1126761,26.4258472 13.86,26.4258472 Z" id="Path" fill="#40B3DF"></path>
+                            <polygon id="Path" fill="#FFFFFF" points="11.9698028 18.7054028 17.6388169 14.8447778 11.9698028 10.98375"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

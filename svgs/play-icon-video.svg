@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="50px" viewBox="0 0 35 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>play-icon-video</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 1.08002496e-12 33.6371681 24.4269818 0 48.8539823"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhatWeDo-SiteRecovery" transform="translate(-783.000000, -1430.000000)">
+            <g id="Video" transform="translate(348.000000, 1256.000000)">
+                <g id="Video-Player-Copy">
+                    <g id="Main" transform="translate(217.039823, 174.592920)">
+                        <g id="play-icon-video" transform="translate(218.641593, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Icon" fill="#1D1F24" xlink:href="#path-1"></use>
+                            <g id="Element-/-Brand-Color" mask="url(#mask-2)" fill="#40B3DF">
+                                <g transform="translate(-27.230088, -5.606195)" id="Background">
+                                    <rect x="0" y="0" width="73" height="59"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

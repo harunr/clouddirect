@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-simple</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-182.000000, -674.000000)">
+            <g id="Tellmemore" transform="translate(97.000000, 675.000000)">
+                <g id="arrow-simple" transform="translate(97.000000, 11.000000) rotate(-270.000000) translate(-97.000000, -11.000000) translate(86.000000, 0.000000)">
+                    <g id="Group-2">
+                        <path d="M12.1936044,7.10472758 C12.0307655,6.93257048 11.7597471,6.93257048 11.5912146,7.10472758 C11.4283757,7.27106856 11.4283757,7.54791578 11.5912146,7.71386902 L14.6456763,10.8340225 L6.32414984,10.8340225 C6.08919125,10.8344103 5.90243902,11.0251789 5.90243902,11.2651907 C5.90243902,11.5052026 6.08919125,11.7021751 6.32414984,11.7021751 L14.6456763,11.7021751 L11.5912146,14.8165125 C11.4283757,14.9886696 11.4283757,15.2659045 11.5912146,15.4318578 C11.7597471,15.6040149 12.0311451,15.6040149 12.1936044,15.4318578 L15.9711616,11.5730573 C16.1396941,11.4067163 16.1396941,11.1298691 15.9711616,10.9639158 L12.1936044,7.10472758 Z" id="Shape" fill="#003C4C" fill-rule="nonzero"></path>
+                        <circle id="Oval" stroke="#003C4C" cx="11" cy="11" r="11"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

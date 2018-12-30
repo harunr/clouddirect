@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="97px" height="97px" viewBox="0 0 97 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>play-large</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-1175.000000, -365.000000)">
+            <g id="play-large" transform="translate(1175.000000, 365.000000)">
+                <g id="Group-18">
+                    <circle id="Oval-3" fill-opacity="0.533542799" fill="#40B3DF" cx="48.5" cy="48.5" r="48.5"></circle>
+                    <g id="play-right-arrow-control-circular-button-copy-9" transform="translate(18.000000, 15.000000)">
+                        <path d="M31.68,1.56841667 C14.2116056,1.56841667 0,16.0205833 0,33.7846667 C0,51.5478333 14.2116056,66 31.68,66 C49.147493,66 63.3590986,51.5478333 63.3590986,33.7846667 C63.3590986,16.0205833 49.147493,1.56841667 31.68,1.56841667 Z" id="play-right-arrow-control-circular-button" fill="#40B3DF"></path>
+                        <path d="M31.68,60.1415833 C17.3872676,60.1415833 5.76090141,48.3184167 5.76090141,33.7846667 C5.76090141,19.2536667 17.3872676,7.42683333 31.68,7.42683333 C45.971831,7.42683333 57.5981972,19.2536667 57.5981972,33.7846667 C57.5981972,48.3184167 45.971831,60.1415833 31.68,60.1415833 Z" id="Path" fill="#40B3DF"></path>
+                        <polygon id="Path" fill="#FFFFFF" points="27.3595493 42.5709167 40.3172958 33.7846667 27.3595493 24.9975"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

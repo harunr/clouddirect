@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="65px" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Small-tick</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhatWeDo-Compliance" transform="translate(-277.000000, -2229.000000)">
+            <g id="Tick-area" transform="translate(-1.000000, 1805.000000)">
+                <g id="Small-tick" transform="translate(278.000000, 424.000000)">
+                    <g id="Group-25-Copy-7" fill="#FFFFFF">
+                        <circle id="Oval-5-Copy-3" cx="32.5" cy="32.5" r="32.5"></circle>
+                    </g>
+                    <g id="tick" transform="translate(17.000000, 20.000000)" fill="#0087AE" fill-rule="nonzero">
+                        <path d="M0.400500029,14.3008939 C0.1312563,14.0408776 0,13.6459778 0,13.3859617 C0,13.1259454 0.1312563,12.7391712 0.400500029,12.4791549 L2.2868888,10.6574161 C2.82705899,10.1357586 3.63479013,10.1357586 4.17327756,10.6574161 L4.30621664,10.7906745 L11.7137843,18.4579036 C11.9830279,18.719545 12.383528,18.719545 12.6544546,18.4579036 L30.6904177,0.385149083 L30.8284052,0.385149083 C31.3685754,-0.128383028 32.1763066,-0.128383028 32.7147939,0.385149083 L34.5961345,2.20688787 C35.1346218,2.7285456 35.1346218,3.50859419 34.5961345,4.02862689 L13.0616857,25.6132259 C12.7924419,25.8732422 12.5215155,26 12.1142842,26 C11.7137843,26 11.4445406,25.8732422 11.1752969,25.6132259 L0.669743736,14.687668 L0.400500029,14.3008939 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
