@@ -8,7 +8,7 @@
 
 }
 
-input[type='number'] { -moz-appearance:textfield; } 
+input[type='number'] { -moz-appearance:textfield; }
 input::-webkit-outer-spin-button, input::-webkit-inner-spin-button { -webkit-appearance: none; }
 
 .small-btn{height: 43px; line-height: 38px; font-size: 16px; width: 174px;}
@@ -82,7 +82,6 @@ input::-webkit-outer-spin-button, input::-webkit-inner-spin-button { -webkit-app
 .sub-btn .check-item input[type="checkbox"]:checked ~ .check-box{background-color: transparent;}
 .sub-btn .check-item input[type="checkbox"]:checked ~ label{color: #003c4c;}
 .sub-btn input[type="submit"]{width: 177px; float: right;}
-
 /* End GetStarted */
 
 /* Why-Cloud-Direct */
@@ -171,7 +170,6 @@ a.user-log img{width: 100%;}
 
 
 /* Contact */
-
 .contact-content .hero-content, .careers-content .hero-content, .about-content .hero-content{margin: 0 auto; max-width: 683px;float: none}
 .contact-content .hero-inner{padding: 245px 0 293px;}
 .contact-section{position: relative; z-index: 1;}
@@ -210,7 +208,7 @@ a.user-log img{width: 100%;}
 /* Careers */
 .careers-content .hero-inner{padding: 265px 0 316px;}
 .tech-section{padding: 42px 0 105px; background-color: #ffffff;}
-.tech-section .common-wrap{max-width: 1030px} 
+.tech-section .common-wrap{max-width: 1030px}
 .tech-wrap{float: left; width: 100%; text-align: center; padding-bottom: 50px}
 .tech-item{float: left; width: 28.0439121756487%; margin:0  3.942115768463074%}
 .tech-item:nth-child(3n+1), .principles-item:nth-child(3n+1){margin-left: 0;}
@@ -426,7 +424,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
 ================ Responsive style ================ */
 @media only screen and (min-width: 320px) and (max-width: 767px) {
     input[type="text"], input[type="number"], input[type="email"],input[type="text"], input[type="submit"],input[type="password"],select,textarea{-webkit-appearance:none;-moz-appearance:none;appearance:none; border-radius: 0}
-    
+
     /* GetStarted */
     .get-logo-wrap .common-wrap{padding: 5px 15px;}
     .get-logo-wrap{padding: 5px 0;}
@@ -439,7 +437,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .tool-tip{padding: 20px 15px; width: 80%; max-width: 280px; display: none;}
     .personal-info{padding: 0 20px;}
     .personal-info a{margin: 5px 0px;}
-    
+
     .get-form-wrap{width: 100%; margin: 30px 0;}
     .form-inner-wrap{margin-top: 15px;}
     .form-inner-wrap h5{font-size: 18px; line-height: 24px;}
@@ -447,7 +445,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .check-item label{font-size: 16px; line-height: 20px; padding: 10px 15px 10px 36px;}
     .check-item input[type="checkbox"], .check-box{width: 20px; height: 20px; left: 10px; top: 10px;}
     .check-box:after{background-size: 11px 8px;}
-    
+
     .input-wrapper{margin-top: 30px;}
     .input-wrapper h5{margin-bottom: 15px;}
     .input-wrapper .input-wrap{width: 100%; margin: 10px 0;}
@@ -461,7 +459,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .sub-btn input[type="submit"]{width: 100%; margin-top: 20px;}
     .sub-btn .check-item input[type="checkbox"]{left: 1px; top: 1px;}
     /* End GetStarted */
-    
+
     /* Why-Cloud-Direct */
     .new-style .call-wrap{right: auto;}
     .user-navigation-wrap{position: relative; top: auto; left: auto; bottom: auto; right: auto; }
@@ -469,12 +467,12 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .search-wrap{width: 85%; margin-top: 5px; float: right;}
     .search-wrap.open input[type="text"]{width: 196px;}
     a.user-log{margin-top: 18px !important;}
-    
+
     .cloud-direct-content .hero-inner{padding: 100px 0px;}
     .feature-wrap{margin-top: -25px;}
     .single-feature, .single-feature:first-child, .single-feature:nth-child(even), .single-feature:nth-child(odd){padding: 50px 0 50px;}
     .single-feature .common-wrap{padding: 0 20px;}
-    
+
     .single-feature.skew:after{top: -20px;}
     .single-feature-bg{top: -30px;}
     .count-item{font-size: 40px; line-height: 40px; float: left; width: 100%;}
@@ -500,7 +498,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .cloud-direct-content .features-wrap, .contact-section, .leaders-item{padding: 30px 0;}
     .cloud-direct-content .features-wrap p{font-size: 18px;}
     /* End Why-Cloud-Direct */
-    
+
     /* contanct */
     .contact-content .hero-wrap{background-position: bottom right;}
     .contact-content .hero-inner, .about-content .hero-inner{padding-top: 154px; padding-bottom: 0;}
@@ -518,7 +516,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .info-item-top address, .info-item-top p{font-size: 16px; line-height: 24px;}
     .enquiry-title{padding-right: 0px;}
     /* End contanct */
-    
+
     /* Careers */
     .careers-content .hero-inner{padding: 150px 0;}
     .tech-section{padding: 50px 0;}
@@ -536,7 +534,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .item-info h6{font-size: 20px;}
     .item-info dfn{font-size: 14px;}
     .what-we-do-des p, .postion-item p, .postion-item a{line-height: 25px; font-size: 16px;}
-    
+
     .position-section{padding-bottom: 30px;}
     .position-item-wrap, .organic-item-title h3{margin-top: 0px;}
     .position-item-des-right, .position-item-des-left, .about-content .what-we-do-section .btn, .leaders-item-left, .leader-item-figure, .leaders-item-info, .about-content .features-inner-wrap .btn-wrap a.btn{width: 100%;}
@@ -546,7 +544,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .position-item-des-right span, .position-item-des-left span{line-height: 25px; font-size: 17px;}
     .oppurtunity-wrap{padding-bottom: 100px;}
     /* Careers */
-    
+
     /* About */
     .organic-section .lead-text p, .principles-section .lead-text p{font-size: 16px; }
     .organic-item-wrap{margin-top: 0px; display: block; margin-bottom: 0;}
@@ -572,7 +570,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .leader-item-info-social span{padding-left: 5px;}
     .leaders-item-right{width: 100%; margin: 20px 0 0;}
     /* End About */
-        
+
     /* FAQs */
     .faqs .hero-wrap{min-height: 10px;}
     .faqs .hero-inner-wrap{padding: 100px 0 50px 0;}
@@ -591,17 +589,17 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .client-suport-wrap{padding: 25px 0 185px 0; }
     .client-suport-inner h2{font-size: 18px; line-height:22px}
     .client-suport-inner p{font-size: 15px; line-height: 20px; padding-top:10px}
-    
+
     .faqs .features-item-wrap .feature-item{width: 100%; margin: 20px auto 0; clear: both;}
     .faqs .features-item-wrap .feature-item span{font-size: 18px; line-height: 22px; padding-top:5px}
     .faqs .features-wrap{padding-bottom: 40px;}
     .faqs .features-item-wrap{margin-top: 15px;}
     /* End FAQs */
-    
+
     .our-people .single-feature-content .btn{width: 190px; height: 40px; line-height: 37px;}
-    
-    
-    
+
+
+
 }
 
 @media only screen and (min-width: 768px) and (max-width: 875px) {
@@ -612,12 +610,10 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .client-suport-inner h2{font-size:35px; line-height:40px}
 }
 
-
-
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     input[type="text"], input[type="number"], input[type="email"],input[type="text"], input[type="submit"],input[type="password"],select,textarea{-webkit-appearance:none;-moz-appearance:none;appearance:none; border-radius: 0}
 
-    
+
     /* GetStarted */
     .get-content .common-wrap{padding: 0 20px;}
     .get-form-wrap{width: 51.464286%;}
@@ -641,7 +637,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .sub-btn .check-item label{font-size: 14px; padding-left: 30px;}
     .get-graphics{width: 40%;}
     /* End GetStarted */
-    
+
     /* Why-Cloud-Direct */
     .new-style .main-nav{padding-right: 235px;}
     .new-style .main-nav > ul > li a{font-size: 15px;}
@@ -654,7 +650,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .new-style .header-area.downScl .get-btn a.user-log{float: right; margin-top: 5px;}
     .header-area.downScl .get-btn a{margin-top: 0;}
     a.user-log{margin-top: 5px;}
-    
+
     .single-feature:nth-child(1), .single-feature:nth-child(2), .single-feature:nth-child(3), .single-feature:nth-child(4), .single-feature:nth-child(5), .single-feature:nth-child(6), .single-feature:nth-child(7), .single-feature:nth-child(8), .single-feature:nth-child(9), .single-feature:nth-child(10) {padding: 100px 0;}
     .count-item{width: 150px; font-size: 100px; line-height: 72px; top: 0;}
     .single-feature-content{-webkit-width: calc(100% - 155px); -moz-width: calc(100% - 155px); width: calc(100% - 155px); padding-left: 10px;}
@@ -665,13 +661,13 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .feature-team-item:nth-child(6){margin-right: 40px;}
     .single-feature-graphics{width: 50%;}
     /* End Why-Cloud-Direct */
-    
+
     /* contanct */
     .enquiry-item{padding: 20px 20px 50px;}
     .enquiry-figure{width: 150px;}
     .enquiry-item .personal-info a{margin: 10px 0 0;}
     /* End contanct */
-    
+
     /* Careers */
     .gallery-section{margin-top: 70px;}
     .carrers-wellcome-content{padding-top: 50px;}
@@ -683,7 +679,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .item-info dfn{font-size: 14px;}
     .oppurtunity-wrap{padding-bottom: 100px;}
     /* End Careers */
-    
+
     /* About */
     .organic-section{padding-top: 100px;}
     .principle-carosule-wrap .common-wrap{padding: 0 50px;}
@@ -698,9 +694,6 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     /* End About */
 
 }
-
-
-
 
 @media only screen and (min-width: 992px) and (max-width: 1024px) {
     input[type="text"], input[type="number"], input[type="email"],input[type="text"], input[type="submit"],input[type="password"],select,textarea{-webkit-appearance:none;-moz-appearance:none;appearance:none; border-radius: 0}
@@ -723,22 +716,22 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .new-style .get-btn{margin-top: 0px; margin-right: 60px;}
     .new-style .get-btn > a{font-size: 14px; margin-top: 0px;}
     .user-navigation-wrap{top: 0;}
-    
+
     .count-item{font-size: 140px;}
     .single-feature-bg{top: -80px;}
     /* End Why-Cloud-Direct */
-    
+
     /* contanct */
     .enquiry-figure{width: 150px;}
     .enquiry-item .personal-info a{margin: 10px 0 0; }
     /* End contanct */
-    
+
     /* Careers */
     .gallery-section{margin-top: 70px;}
     .middle-text{padding: 80px 0 100px;}
     .careers-content .news-article{padding: 100px 0;}
     /* End Careers */
-    
+
     /* About */
     .principle-carosule-wrap .common-wrap{padding: 0 80px;}
     .about-content .what-we-do-section .lead-text h1{font-size: 200px; line-height: 150px;}
@@ -746,7 +739,7 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .principles-item{padding: 0 10px;}
     .leader-item-info-social span{padding-left: 5px;}
     /* End About */
-    
+
     /*FAQs*/
     .accordium-item-wrap  {margin-top: 40px; }
     .accordium-item-wrap:first-child{margin-top:40px}
@@ -755,23 +748,19 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .accordium-item-wrap:last-child { margin-top: 40px;}
     .client-suport-wrap{padding-top:50px}
     .client-suport-inner p{padding-top:14px}
-    /*End FAQs*/  
+    /*End FAQs*/
 }
 
-
 @media only screen and (min-width: 1025px) and (max-width: 1260px){
-    
+
     /* Why-Cloud-Direct */
     .new-style .call-wrap{right: 195px;}
     .new-style .call-wrap span, .new-style .call-wrap a{font-size: 13px;}
     .new-style .get-btn{margin-right: 60px;}
     .new-style .main-nav > ul > li > a{padding: 0 10px;}
     /* End Why-Cloud-Direct */
-    
+
 }
-
-
-
 
 @media only screen and (min-width: 1261px) and (max-width: 1330px){
     /* Why-Cloud-Direct */
@@ -779,23 +768,6 @@ section.oppurtunity-section{float: left; width: 100%;background: #f5f5f5}
     .new-style .get-btn{margin-right: 60px;}
     .new-style .main-nav > ul > li > a{padding: 0 10px;}
     /* End Why-Cloud-Direct */
-    
-    
+
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
